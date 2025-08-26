@@ -1,68 +1,214 @@
-# Sanket Dangle | Quantitative Research & Development | AI/ML Engineering
+# Hi there, I'm Sanket Dangle 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Quantitative+Research+%26+Development;AI%2FML+Engineering+Specialist;Building+High-Performance+Systems" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanketdangle/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:sanket1537@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://github.com/shanks1911">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
----
-
-## 👋 Hi there  
-
-I am a high-achieving, final-year **Computer Engineering student** (CGPA **9.67**) at **K. J. Somaiya Institute of Technology**, graduating in **May 2026**.  
-My passion lies in building **robust, high-performance systems** to solve complex, data-driven problems at the intersection of **quantitative finance and artificial intelligence**.  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanks1911&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
 
 ---
 
-### 🔭 Currently Working On  
-- A **high-performance derivatives pricing engine**, featuring a **C++ accelerated Monte Carlo simulator** for exotic options.  
+## 🚀 About Me
 
-### 🌱 Currently Learning  
-- **Advanced C++**, performance engineering with **pybind11**, and the architecture of **event-driven backtesting systems** for algorithmic trading.  
+```python
+class SanketDangle:
+    def __init__(self):
+        self.name = "Sanket Dangle"
+        self.role = "Quantitative Research & AI/ML Engineering"
+        self.education = {
+            "degree": "Computer Engineering",
+            "institution": "K. J. Somaiya Institute of Technology",
+            "cgpa": 9.67,
+            "graduation": "May 2026"
+        }
+        self.focus_areas = [
+            "Quantitative Finance",
+            "Derivatives Pricing",
+            "High-Performance Computing",
+            "AI/ML Systems"
+        ]
+    
+    def current_mission(self):
+        return "Building robust, high-performance systems at the intersection of finance and AI"
+```
 
-### 👯 Looking to Collaborate On  
-- Projects involving **financial modeling**, **alpha research**, or the development of **multi-agent AI systems**.  
+<div align="center">
 
-### 💬 Ask Me About  
-- **Quantitative finance**, **derivatives pricing (BSM & Monte Carlo)**, and building **AI/ML systems from the ground up**.  
+### 🎯 **Turning Complex Theory into High-Performance Applications**
 
-### 📫 How to Reach Me  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/sanketdangle/) or reach me via [Email](mailto:sanket1537@gmail.com).  
+*Final-year Computer Engineering student passionate about quantitative finance and artificial intelligence*
 
----
-
-## 💡 Core Competencies  
-
-I thrive on turning complex theory into **practical, high-performance applications**.  
-My core competencies are centered around these key areas:  
-
-- **Quantitative Modeling**: Financial engineering, stochastic modeling, backtesting strategies, and performance engineering with C++.  
-- **AI & Machine Learning**: End-to-end ML systems, statistical modeling, time-series analysis, and modern **multi-agent AI** frameworks.  
-
----
-
-## 🛠️ Tech Stack  
-
-**Programming Languages**: Python, C++, SQL  
-**Quantitative Libraries**: NumPy, Pandas, Scikit-learn, StatsModels, Matplotlib, SciPy  
-**Financial Modeling**: Statistical Arbitrage, Time-Series Analysis, Backtesting Frameworks, Monte Carlo Simulation, Options Pricing (Black-Scholes), Fixed Income Analytics  
-**AI Frameworks**: LangChain, LangGraph  
-**Developer Tools**: Git, GitHub, Docker, Streamlit, VS Code, Power BI, RESTful APIs  
-**Databases**: MySQL, PostgreSQL  
+</div>
 
 ---
 
-## 📊 GitHub Analytics  
+## 🔥 What I'm Up To
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=dracula" alt="GitHub Streak Stats" />
+<table>
+<tr>
+<td width="50%">
+
+### 🔭 **Currently Building**
+- **High-Performance Derivatives Pricing Engine**
+  - C++ accelerated Monte Carlo simulator
+  - Exotic options pricing models
+  - Real-time risk analytics
+
+</td>
+<td width="50%">
+
+### 🌱 **Currently Learning**
+- Advanced C++ & Performance Engineering
+- pybind11 for Python-C++ integration
+- Event-driven backtesting architectures
+- Multi-agent AI system design
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Core Competencies
+
+<div align="center">
+
+| 📈 **Quantitative Modeling** | 🤖 **AI & Machine Learning** |
+|:---:|:---:|
+| Financial Engineering | End-to-End ML Systems |
+| Stochastic Modeling | Statistical Modeling |
+| Backtesting Strategies | Time-Series Analysis |
+| Performance Engineering | Multi-Agent AI Frameworks |
+| Monte Carlo Simulations | Deep Learning Applications |
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=dracula" alt="Top Languages" />
+### **Quantitative & Financial Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
+
+### **AI & ML Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+### **Development Tools & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### **Specialized Skills**
+<details>
+<summary><b>📊 Financial Modeling & Quantitative Analysis</b></summary>
+
+- **Options Pricing**: Black-Scholes Model, Monte Carlo Simulations
+- **Statistical Arbitrage**: Pairs trading, mean reversion strategies  
+- **Time-Series Analysis**: ARIMA, GARCH, stationarity testing
+- **Backtesting Frameworks**: Strategy development and performance evaluation
+- **Fixed Income Analytics**: Bond pricing, yield curve analysis
+- **Risk Management**: VaR, CVaR, stress testing
+
+</details>
+
+<details>
+<summary><b>🤖 AI/ML Specializations</b></summary>
+
+- **Statistical Modeling**: Regression analysis, hypothesis testing
+- **Machine Learning**: Supervised/unsupervised learning, model optimization
+- **Deep Learning**: Neural networks, sequence modeling
+- **Multi-Agent Systems**: Distributed AI, agent coordination
+- **MLOps**: Model deployment, monitoring, and maintenance
+
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### 👯 **Looking to Collaborate On:**
+
+🔬 **Financial Modeling Projects** | 📊 **Alpha Research** | 🤖 **Multi-Agent AI Systems** | 📈 **Quantitative Strategies**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github.com/shanks1911/shanks1911/assets/your-image-number/your-image.gif" width="200"/>
+<br><b>💬 Ask me about:</b>
+<br>Quantitative Finance • Derivatives Pricing
+<br>AI/ML Systems • Performance Engineering
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>📫 Let's Connect and Build Something Amazing Together!</h3>
+  
+  <a href="https://www.linkedin.com/in/sanketdangle/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanket1537@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Always%20open%20to%20interesting%20conversations%20and%20collaboration%20opportunities&descAlignY=51&descAlign=50"/>
+</div>
