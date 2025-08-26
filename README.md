@@ -57,8 +57,12 @@ My core competencies are centered around these key areas:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=dracula&count_private=true" alt="Sanket's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=dracula" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
