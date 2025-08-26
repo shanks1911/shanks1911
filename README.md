@@ -34,8 +34,9 @@ class SanketDangle:
         self.focus_areas = [
             "Quantitative Finance",
             "Derivatives Pricing",
-            "High-Performance Computing",
-            "AI/ML Systems"
+            "Data Science",
+            "AI/ML Systems",
+            "High-Performance Computing"
         ]
     
     def current_mission(self):
