@@ -160,26 +160,13 @@ class SanketDangle:
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🤝 Let's Collaborate!
+## 🎯 Open to Opportunities
 
 <div align="center">
 
-### 👯 **Looking to Collaborate On:**
+### 💼 **Seeking Internship Opportunities In:**
 
-🔬 **Financial Modeling Projects** | 📊 **Alpha Research** | 🤖 **Multi-Agent AI Systems** | 📈 **Quantitative Strategies**
+🔬 **Quantitative Finance** | 📊 **Data Science** | 🤖 **AI/ML Research** | 📈 **Financial Engineering**
 
 </div>
 
@@ -210,5 +197,5 @@ class SanketDangle:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Always%20open%20to%20interesting%20conversations%20and%20collaboration%20opportunities&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Ready%20to%20Make%20an%20Impact!&fontSize=20&fontAlignY=70&desc=Open%20to%20internship%20opportunities%20in%20Quantitative%20Finance%20and%20Data%20Science&descAlignY=90&descAlign=50&fontColor=ffffff"/>
 </div>
