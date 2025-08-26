@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanks1911&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -56,22 +52,25 @@ class SanketDangle:
 
 ---
 
+<div align="center">
+
 ## 🔥 What I'm Up To
 
-<table>
+<table width="80%">
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🔭 **Currently Building**
-- **High-Performance Derivatives Pricing Engine**
-  - C++ accelerated Monte Carlo simulator
-  - Exotic options pricing models
-  - Real-time risk analytics
+**High-Performance Derivatives Pricing Engine**
+- C++ accelerated Monte Carlo simulator
+- Exotic options pricing models  
+- Real-time risk analytics
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🌱 **Currently Learning**
+**Advanced Technical Skills**
 - Advanced C++ & Performance Engineering
 - pybind11 for Python-C++ integration
 - Event-driven backtesting architectures
@@ -80,6 +79,8 @@ class SanketDangle:
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -169,17 +170,6 @@ class SanketDangle:
 🔬 **Quantitative Finance** | 📊 **Data Science** | 🤖 **AI/ML Research** | 📈 **Financial Engineering**
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://github.com/shanks1911/shanks1911/assets/your-image-number/your-image.gif" width="200"/>
-<br><b>💬 Ask me about:</b>
-<br>Quantitative Finance • Derivatives Pricing
-<br>AI/ML Systems • Performance Engineering
-</td>
-</tr>
-</table>
 
 ---
 
