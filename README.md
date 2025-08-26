@@ -1,7 +1,7 @@
 # Hi there, I'm Sanket Dangle 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Quantitative+Research+%26+Development;AI%2FML+Engineering+Specialist;Building+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=30&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Quantitative+Research+%26+Development;AI%2FML+Engineering+Specialist;Building+High-Performance+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
