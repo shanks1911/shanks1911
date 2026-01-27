@@ -28,7 +28,7 @@ class SanketDangle:
         self.education = {
             "degree": "Computer Engineering",
             "institution": "K. J. Somaiya Institute of Technology",
-            "cgpa": 9.67,
+            "cgpa": 9.64,
             "graduation": "May 2026"
         }
         self.focus_areas = [
