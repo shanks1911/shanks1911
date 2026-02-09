@@ -290,14 +290,6 @@ Real-time environmental forecasting platform:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
----
-
 ## 🎯 Open to Opportunities
 
 <div align="center">
