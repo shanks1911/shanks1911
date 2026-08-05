@@ -1,248 +1,78 @@
-<div align="center">
+# Sanket Dangle
 
-# Hi, I'm Sanket Dangle 👋
+**Quantitative research · market microstructure · statistical validation**
 
-### Incoming M.S. in Computer Science @ Columbia University
+M.S. Computer Science, Columbia University · Previously quantitative research at Raise Financial Services (Stratzy)
 
-### Quantitative Research • Market Microstructure • Statistical Learning
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+research+systems+for+financial+markets;Learning+how+modern+electronic+markets+work;Turning+data+into+reproducible+research;Always+curious.+Always+learning.)](https://git.io/typing-svg)
-
-</div>
+[Email](mailto:sanket.dangle@columbia.edu) · [LinkedIn](https://linkedin.com/in/sanketdangle) · [Résumé](https://github.com/shanks1911/shanks1911/blob/main/resume.pdf)
 
 ---
 
-# About Me
+I work on systematic strategy research and market microstructure — mostly the unglamorous parts: point-in-time data, look-ahead guards, out-of-sample discipline, and finding out which results survive honest evaluation. Most of what I've learned came from watching promising backtests fall apart under scrutiny.
 
-I'm interested in understanding **how financial markets work beneath the charts.**
-
-Over the last few years, my interests have gradually shifted from building AI applications to studying **quantitative research**, **market microstructure**, and **financial data engineering**.
-
-I enjoy asking questions, working with messy real-world datasets, designing experiments, and building research systems whose results can be trusted.
+Currently reading into fair value estimation and order flow in electronic futures markets.
 
 ---
 
-# 🔬 Research Dashboard
+## Selected work
 
-| | |
-|:---|:---|
-| 🎓 Education | **M.S. Computer Science, Columbia University** |
-| 💼 Experience | **Quantitative Research Intern @ Raise Financial Services (Stratzy AI)** |
-| 📍 Current Focus | Market Microstructure & High-Frequency Trading |
-| 🎯 Long-Term Goal | Quantitative Research |
-| 📚 Currently Studying | Market Microstructure • Derivatives • Stochastic Processes • Financial Econometrics |
+### Derivatives Pricing & Risk Engine — [live demo](https://huggingface.co/spaces/shanks1911/derivatives-pricer)
+Black-Scholes-Merton pricing with full Greeks and implied-volatility root-solving, plus a Monte Carlo engine for path-dependent (Asian) options under GBM with a Mersenne Twister PRNG. Core simulation loop ported to C++ via `pybind11` for a **40× speedup** — 65.7s → 1.66s on 100k paths × 252 steps. Plots the live implied-volatility smile from real options-chain data; containerized and deployed.
 
----
+`C++` `pybind11` `SciPy` `Docker` `Streamlit`
 
-# 🚀 Current Research
+### Intraday Pairs-Trading Simulator — [live demo](https://intradaystatarbtradingsimulator.streamlit.app/)
+Statistical-arbitrage research tool: rolling-OLS hedge ratio estimation, z-score entry/exit signals on the cointegrated spread, across 1m/5m/15m bars. Supports both US and NSE ticker pairs with configurable lookback windows and thresholds.
 
-## 🔬 Market Microstructure Research Platform *(Flagship Project)*
+`statsmodels` `Pandas` `Streamlit`
 
-Building a research platform for evaluating **fair value estimation techniques** using **high-frequency futures limit order book data**.
+### Market Microstructure Research *(in progress — started Aug 2026)*
+A study of short-term fair value estimation in CME E-mini futures: reproducing Stoikov's microprice from the literature, then testing where it degrades and whether order flow information explains those failures. Evaluation by information coefficient with block-bootstrap confidence intervals, stratified across volatility regimes.
 
-### Current Research Areas
+Design notes and results will land here as they're produced.
 
-- Fair Value Estimation
-- Microprice
-- Order Flow Imbalance (OFI)
-- Queue Imbalance
-- Statistical Feature Engineering
-- High-Frequency Data Pipelines
+### Agentic AI Research Companion — [repo](https://github.com/shanks1911/Agentic_AI_Project_Companion)
+Multi-agent system (LangGraph + Gemini) with a supervisor delegating to planning and research agents, plus a stateful RAG agent over persistent ChromaDB for context-aware Q&A on user-uploaded PDFs. Presented as a peer-reviewed paper at Hinweis NCCT 2025.
 
-### Planned Extensions
+`LangGraph` `LangChain` `ChromaDB` `Gemini`
 
-- Inventory-Aware Market Making
-- Optimal Execution
-- Reinforcement Learning
-- Low-Latency Research Infrastructure
+### AQI Forecasting & Health Advisory — [repo](https://github.com/shanks1911/AQI_Health_Advisory)
+End-to-end hourly air-quality forecasting pipeline over Google Air Quality API, OpenAQ, and OpenMeteo data, with automated ingestion, multiple model comparison, and a personalized advisory layer. Published at STAI 2026 (ACM Fremont Chapter).
+
+### Urban Heat Island Detection — [repo](https://github.com/shanks1911/UHI)
+Satellite-based UHI intensity modeling across Mumbai using Google Earth Engine — land surface temperature, NDVI, rainfall, humidity, wind, and impervious surface area. Published at IEEE ICCCNT 2025 (IIT Indore).
 
 ---
 
-# 💼 Industry Experience
+## Experience
 
-## Quantitative Research Intern — Raise Financial Services (Stratzy AI)
+**Quantitative Research Intern — Raise Financial Services (Stratzy)** · Feb 2026 – Jul 2026
 
-Worked on systematic equity research involving:
+Systematic long-only NSE equity research under strict out-of-sample discipline — frozen holdout, walk-forward optimization, survivorship-bias auditing.
 
-- 📊 1700+ financial datasets
-- 📈 Fundamental & Price Data Engineering
-- 📝 NLP pipelines for corporate actions
-- 🔍 Strategy Research & Validation
-- 📉 Walk-forward Testing
-- ✅ Out-of-sample Evaluation
-- ⚙️ Quantitative Research Infrastructure
-
-> **Biggest lesson:** Good research starts with good data.
+- Screened **250+ strategies** to a Sharpe > 1.0 / <30% drawdown bar; **25** cleared the full in-sample *and* holdout deployable gate. Flagship strategy: **1.71 overall Sharpe (1.69 in-sample / 1.96 holdout)** across a window spanning the 2020 COVID crash.
+- Built a **1,700+ factor** alpha library — LODR-sourced quality/value/growth composites alongside sector-relative and technical signals, scored via cross-sectional and time-series operators.
+- Layered a **34-plugin** risk-overlay framework (6-hook contract) with 3-tier regime detection — rule-based rulesets, seeded GMM/HMM/KMeans clustering, and passive allocators over **24 market-state signals**. On a quality-value base strategy, breadth-driven exposure allocation roughly **halved max drawdown (−53% → −26%)**.
+- Engineered a decoupled backtesting engine over **2,476 NSE trading days** with full Indian transaction-cost and slippage modelling, and point-in-time, look-ahead-free execution (signal-T / fill-T+1) enforced at the config parser.
+- Scaled research to **5,000+ backtests** via an agentic LLM loop mapping academic papers (arXiv, SSRN, OpenAlex) to auto-validated configs on a Dockerized AWS S3 pipeline, guarded by a deterministic config validator enforcing factor/unit/warm-up contracts against silent look-ahead.
 
 ---
 
-# 📂 Featured Projects
+## Publications
 
-## 🌍 Urban Heat Island Detection
-
-Research project using **Google Earth Engine** and satellite imagery to identify Urban Heat Islands across Mumbai.
-
-**Worked with**
-
-- Land Surface Temperature
-- NDVI
-- Rainfall
-- Humidity
-- Wind
-- Impervious Surface Area
+- **"UHI Intensity Prediction via Satellite-Based AI Modeling"** — IEEE ICCCNT, IIT Indore, Jul 2025 · [code](https://github.com/shanks1911/UHI)
+- **"AQI Forecasting with Personalized Health Advisory"** — STAI, ACM Fremont Chapter, Apr 2026 · [code](https://github.com/shanks1911/AQI_Health_Advisory)
+- **"Quote-to-Image Generation via Llama 3.2"** — Hinweis RTET, Dec 2024 · [code](https://github.com/shanks1911/ImageGeneration)
+- **"Agentic AI Project Companion: A Framework for Consultative, Adaptive and Proactive R&D"** — Hinweis NCCT, Oct 2025 · [code](https://github.com/shanks1911/Agentic_AI_Project_Companion)
 
 ---
 
-## 🌫 AQI Forecasting & Health Advisory
+## Stack
 
-Built an end-to-end AQI forecasting system combining
-
-- Google Air Quality API
-- OpenAQ
-- OpenMeteo
-
-Features
-
-- Hourly AQI Forecasting
-- Multiple ML Models
-- Automated Data Pipelines
-- Personalized Health Advisory
-- Streamlit Deployment
+**Languages** Python · C++ · SQL
+**Quantitative** NumPy · Pandas · SciPy · statsmodels · scikit-learn
+**Infrastructure** Docker · AWS S3 · PyArrow/Parquet · PostgreSQL · Git
 
 ---
 
-## 🤖 Agentic AI Research Companion
-
-Multi-agent research assistant built using
-
-- LangGraph
-- LangChain
-- Google Gemini
-- Retrieval-Augmented Generation (RAG)
-
----
-
-# 📝 Research Log
-
-### August 2026
-
-- Started studying market microstructure and high-frequency trading
-- Designing the architecture for the Market Microstructure Research Platform
-- Reading literature on microprice, order flow imbalance, and fair value estimation
-
-### Coming Next
-
-- Implement fair value estimators
-- Benchmark classical vs learned estimators
-- Build market making simulator
-- Publish technical report and open-source implementation
-
----
-
-# 📚 Research Philosophy
-
-> **"Good models don't fix bad data."**
-
-I enjoy building systems, but I enjoy understanding **why** they work even more.
-
-Whether the problem is in finance, environmental science, or machine learning, I like starting with messy real-world datasets, designing careful experiments, validating assumptions, and building solutions that are reproducible.
-
-To me, **the quality of the data and the quality of the experiment matter more than the complexity of the model.**
-
----
-
-# 🛠 Technical Stack
-
-### Languages
-
-`Python` • `C++` • `SQL`
-
-### Quantitative Computing
-
-`NumPy` • `Pandas` • `SciPy` • `Statsmodels`
-
-### Machine Learning
-
-`Scikit-Learn` • `PyTorch` • `TensorFlow`
-
-### AI
-
-`LangChain` • `LangGraph` • `Google Gemini`
-
-### Infrastructure
-
-`Docker` • `FastAPI` • `PostgreSQL` • `Git`
-
----
-
-# 📅 Journey
-
-```text
-2023
-│
-├── Machine Learning
-│
-2024
-│
-├── Urban Heat Island Research
-├── AQI Forecasting
-├── International Publications
-│
-2025
-│
-├── Quantitative Research Internship @ Stratzy AI
-│
-2026
-│
-├── Columbia University
-├── Market Microstructure
-├── High-Frequency Trading
-│
-2027
-│
-└── Quantitative Research
-```
-
----
-
-# 📖 Currently Reading
-
-- 📘 Market Microstructure Theory
-- 📘 Advances in Financial Machine Learning
-- 📘 Options, Futures & Other Derivatives
-- 📘 Algorithmic Trading
-- 📄 Current SSRN & arXiv Papers
-
----
-
-# 🎯 Current Goals
-
-- ✅ Columbia University
-- 🔄 Build Market Microstructure Research Platform
-- 🔄 Publish Technical Report
-- 🔄 Summer 2027 Quant Internship
-- 🔄 Contribute to Open Source Quant Projects
-
----
-
-# 🤝 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sanketdangle">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sanket1537@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### *"Still learning. Still building. Always curious."*
-
-</div>
+<sub>Open to Summer 2027 quantitative research and trading internships.</sub>
