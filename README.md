@@ -71,4 +71,222 @@ Future extensions:
 
 ---
 
+# Research Systems
+
+Instead of building isolated projects, I prefer building reusable research systems. Most of my work follows the same cycle:
+
+Research Question
+
+↓
+
+Data Collection
+
+↓
+
+Feature Engineering
+
+↓
+
+Experiment Design
+
+↓
+
+Validation
+
+↓
+
+Deployment
+
+---
+
+## 🔬 Market Microstructure Research Platform *(Current Flagship)*
+
+**Status:** 🟡 Research & Design
+
+Building a research platform to study how fair value can be estimated from high-frequency futures limit order book data.
+
+Current research areas
+
+- Microprice
+- Weighted Midprice
+- Order Flow Imbalance
+- Queue Imbalance
+- Fair Value Estimation
+- Statistical Evaluation
+
+Planned work
+
+- Inventory-aware Market Making
+- Optimal Execution
+- Reinforcement Learning
+- Low-latency C++
+
+**Stack**
+
+`Python` `NumPy` `Databento` `statsmodels`
+
+---
+
+## 📈 Quantitative Research Infrastructure
+
+During my internship at Raise Financial Services (Stratzy AI), I worked on research infrastructure supporting systematic equity strategies rather than a single trading model.
+
+Highlights
+
+- 1,700+ financial datasets
+- 250+ raw fundamental & price datasets
+- NLP pipelines for corporate actions
+- Modular factor engineering
+- Plugin-based risk overlays
+- Walk-forward optimization
+- Frozen holdout validation
+- Automated research workflows
+
+The biggest lesson I took away was simple:
+
+> Robust research starts with robust data.
+
+---
+
+## 🌫 AQI Forecasting & Health Advisory
+
+An end-to-end machine learning pipeline for forecasting hourly air quality.
+
+### Data Sources
+
+- Google Air Quality API
+- OpenAQ
+- OpenMeteo
+
+### Pipeline
+
+```
+Collect
+    ↓
+Clean
+    ↓
+Engineer Features
+    ↓
+Train Multiple Models
+    ↓
+Benchmark
+    ↓
+Forecast
+```
+
+Highlights
+
+- Automated data pipelines
+- Ensemble ML
+- Streamlit deployment
+- Personalized health advisory
+- Publication accepted
+
+---
+
+## 🌍 Urban Heat Island Detection
+
+Satellite-based geospatial research using Google Earth Engine.
+
+Combined environmental datasets including
+
+- Land Surface Temperature
+- NDVI
+- Rainfall
+- Humidity
+- Wind
+- Impervious Surface Area
+
+Used clustering and machine learning to identify Urban Heat Islands across Mumbai.
+
+Published at IEEE ICCCNT 2025.
+
+---
+
+## 🤖 Agentic AI Research Companion
+
+A multi-agent research assistant built with LangGraph.
+
+Architecture
+
+```
+Supervisor
+      │
+ ┌────┴────┐
+ │         │
+Planning  Research
+ │         │
+ └────┬────┘
+      │
+ Stateful RAG
+      │
+ Persistent Memory
+```
+
+Features
+
+- Multi-agent workflows
+- Persistent ChromaDB
+- PDF understanding
+- Stateful conversations
+- Research automation
+
+Published at Hinweis NCCT 2025.
+
+# Research Experience
+
+## Raise Financial Services (Stratzy AI)
+
+**Quantitative Research Intern**
+
+**February 2026 — July 2026**
+
+Worked on systematic equity research, quantitative research infrastructure and strategy validation.
+
+### Research Pipeline
+
+```
+Financial Data
+      ↓
+Preprocessing
+      ↓
+Feature Engineering
+      ↓
+Strategy Research
+      ↓
+Validation
+      ↓
+Risk Overlays
+      ↓
+Deployment
+```
+
+### Responsibilities
+
+- Processed 1,700+ financial datasets
+
+- Built NLP preprocessing pipelines for company announcements
+
+- Designed reusable research infrastructure
+
+- Built modular risk overlay framework
+
+- Evaluated thousands of systematic strategies
+
+- Implemented walk-forward optimization
+
+- Ensured point-in-time execution without look-ahead bias
+
+### Research Principles
+
+✓ Data Integrity
+
+✓ Reproducibility
+
+✓ Honest Validation
+
+✓ Statistical Thinking
+
+
+
 > *Good models don't fix bad data. Good validation does.*
