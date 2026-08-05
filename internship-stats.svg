@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 108" width="1012" height="108" role="img" aria-label="1,700+ financial datasets; 250+ raw fundamental and price feeds; thousands of strategies evaluated; zero look-ahead tolerated.">
+  <rect width="1012" height="108" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="126.5" y="52" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">1,700+</text>
+  <text x="126.5" y="76" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">FINANCIAL DATASETS</text>
+  <text x="379.5" y="52" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">250+</text>
+  <text x="379.5" y="76" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">RAW FUNDAMENTAL &amp; PRICE FEEDS</text>
+  <path d="M253 1V107" stroke="#1a1f26"></path>
+  <text x="632.5" y="52" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">10³+</text>
+  <text x="632.5" y="76" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">STRATEGIES EVALUATED</text>
+  <path d="M506 1V107" stroke="#1a1f26"></path>
+  <text x="885.5" y="52" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">0</text>
+  <text x="885.5" y="76" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">LOOK-AHEAD TOLERATED</text>
+  <path d="M759 1V107" stroke="#1a1f26"></path>
+</svg>

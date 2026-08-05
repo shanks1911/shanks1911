@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 62" width="1012" height="62" role="img" aria-label="Research pipeline: financial data, NLP preprocessing, factor engineering, strategy research, walk-forward validation, risk overlays, deployment.">
+  <rect width="1012" height="62" fill="#0a0c0f"></rect>
+  <rect x="14" y="12" width="110" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="69" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">FINANCIAL DATA</text>
+  <text x="134" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="144" y="12" width="130" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="209" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">NLP PREPROCESSING</text>
+  <text x="284" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="294" y="12" width="137" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="362.5" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">FACTOR ENGINEERING</text>
+  <text x="441" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="451" y="12" width="130" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="516" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">STRATEGY RESEARCH</text>
+  <text x="591" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="601" y="12" width="170" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="686" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">WALK-FORWARD VALIDATION</text>
+  <text x="781" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="791" y="12" width="103" height="38" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="842.5" y="35.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">RISK OVERLAYS</text>
+  <text x="904" y="35.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="914" y="12" width="83" height="38" fill="#101720" stroke="#b9d9eb"></rect>
+  <text x="955.5" y="35.5" fill="#dfe4ea" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1" text-anchor="middle">DEPLOYMENT</text>
+</svg>

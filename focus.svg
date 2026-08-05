@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 252" width="1012" height="252" role="img" aria-label="Research focus: market microstructure, derivatives and volatility, financial data engineering, statistical learning, market making.">
+  
+  <rect width="1012" height="252" fill="#0a0c0f"></rect>
+  <text x="14" y="42" fill="#e8ecf1" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Market Microstructure</text>
+  <rect x="470" y="36.5" width="380" height="3" fill="#161b21"></rect>
+  <rect class="b0" x="470" y="36.5" width="349.6" height="3" fill="#b9d9eb"></rect>
+  <text x="998" y="41.5" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" text-anchor="end">RESEARCHING</text>
+  <path d="M14 60H998" stroke="#161b21"></path>
+  <text x="14" y="86" fill="#e8ecf1" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Derivatives &amp; Volatility</text>
+  <rect x="470" y="80.5" width="380" height="3" fill="#161b21"></rect>
+  <rect class="b1" x="470" y="80.5" width="304.0" height="3" fill="#b9d9eb"></rect>
+  <text x="998" y="85.5" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" text-anchor="end">IMPLEMENTING</text>
+  <path d="M14 104H998" stroke="#161b21"></path>
+  <text x="14" y="130" fill="#e8ecf1" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Financial Data Engineering</text>
+  <rect x="470" y="124.5" width="380" height="3" fill="#161b21"></rect>
+  <rect class="b2" x="470" y="124.5" width="326.8" height="3" fill="#b9d9eb"></rect>
+  <text x="998" y="129.5" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" text-anchor="end">BUILT</text>
+  <path d="M14 148H998" stroke="#161b21"></path>
+  <text x="14" y="174" fill="#e8ecf1" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Statistical Learning</text>
+  <rect x="470" y="168.5" width="380" height="3" fill="#161b21"></rect>
+  <rect class="b3" x="470" y="168.5" width="281.2" height="3" fill="#b9d9eb"></rect>
+  <text x="998" y="173.5" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" text-anchor="end">APPLIED</text>
+  <path d="M14 192H998" stroke="#161b21"></path>
+  <text x="14" y="218" fill="#e8ecf1" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Market Making</text>
+  <rect x="470" y="212.5" width="380" height="3" fill="#161b21"></rect>
+  <rect class="b4" x="470" y="212.5" width="220.4" height="3" fill="#b9d9eb"></rect>
+  <text x="998" y="217.5" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.4" text-anchor="end">READING</text>
+  <path d="M14 236H998" stroke="#161b21"></path>
+</svg>

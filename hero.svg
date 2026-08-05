@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 340" width="1012" height="340" role="img" aria-label="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research, Market Microstructure, Systematic Trading.">
+  
+  <defs>
+    <linearGradient id="bidg" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#b9d9eb" stop-opacity="0.03"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0.26"></stop>
+    </linearGradient>
+    <linearGradient id="askg" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#e0a25e" stop-opacity="0.03"></stop><stop offset="1" stop-color="#e0a25e" stop-opacity="0.20"></stop>
+    </linearGradient>
+    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b9d9eb" stop-opacity="0"></stop><stop offset=".5" stop-color="#b9d9eb" stop-opacity="0.06"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect width="1012" height="340" fill="#0d1116"></rect>
+  <g stroke="#161c23" stroke-width="1">
+    <path d="M0 40H1012M0 80H1012M0 120H1012M0 160H1012M0 200H1012M0 240H1012M0 280H1012M0 320H1012"></path>
+    <path d="M84 0V340M168 0V340M252 0V340M336 0V340M420 0V340M504 0V340M588 0V340M672 0V340M756 0V340M840 0V340M924 0V340"></path>
+  </g>
+  <path class="bid" d="M40,300 V190 H78 V196 H116 V205 H154 V212 H192 V224 H230 V233 H268 V244 H306 V252 H344 V263 H382 V272 H420 V283 H458 V292 H490 V300 Z" fill="url(#bidg)" stroke="#b9d9eb" stroke-opacity="0.45"></path>
+  <path class="ask" d="M522,300 V292 H560 V284 H598 V275 H636 V266 H674 V255 H712 V246 H750 V236 H788 V226 H826 V215 H864 V206 H902 V196 H940 V186 H972 V300 Z" fill="url(#askg)" stroke="#e0a25e" stroke-opacity="0.40"></path>
+  <path d="M506,140 V320" stroke="#b9d9eb" stroke-opacity="0.30" stroke-dasharray="3 5"></path>
+  <g font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace">
+    <text x="506" y="332" fill="#6d7783" font-size="9" letter-spacing="1.4" text-anchor="middle">MID</text>
+    <text x="40" y="322" fill="#4d5661" font-size="9" letter-spacing="1.4">CUMULATIVE BID DEPTH</text>
+    <text x="972" y="322" fill="#4d5661" font-size="9" letter-spacing="1.4" text-anchor="end">CUMULATIVE ASK DEPTH</text>
+    <text x="40" y="58" fill="#5d6673" font-size="10" letter-spacing="3.2">M.S. COMPUTER SCIENCE — COLUMBIA UNIVERSITY</text>
+    <text x="42" y="168" fill="#b9d9eb" font-size="13" letter-spacing="1.4">Quantitative Research  ·  Market Microstructure  ·  Systematic Trading</text>
+    <text x="972" y="58" fill="#4d5661" font-size="11" text-anchor="end">P_micro = (V_a·P_b + V_b·P_a) / (V_a + V_b)</text>
+    <text x="972" y="80" fill="#4d5661" font-size="11" text-anchor="end">OFI_t = Σ ΔV_b − ΔV_a</text>
+    <text x="972" y="102" fill="#4d5661" font-size="11" text-anchor="end">I_q = (V_b − V_a) / (V_b + V_a)</text>
+  </g>
+  <text x="40" y="132" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="66" letter-spacing="-1">Sanket Dangle</text>
+  <rect class="sweep" x="0" y="0" width="140" height="340" fill="url(#sw)"></rect>
+</svg>
