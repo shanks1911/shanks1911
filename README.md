@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/hero.svg" alt="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research · Market Microstructure · Systematic Trading" width="100%">
+<img src="hero.svg" alt="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research · Market Microstructure · Systematic Trading" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D10?style=flat-square&logo=linkedin&logoColor=B9D9EB&labelColor=0B0D10)](https://www.linkedin.com/in/sanketdangle/)
 [![Email](https://img.shields.io/badge/sanket1537%40gmail.com-0B0D10?style=flat-square&logo=gmail&logoColor=B9D9EB&labelColor=0B0D10)](mailto:sanket1537@gmail.com)
@@ -20,7 +20,7 @@ Most of what I know came from watching promising strategies fail under honest va
 
 ## Focus
 
-<img src=".github/assets/focus.svg" alt="Market Microstructure — researching. Derivatives & Volatility — implementing. Financial Data Engineering — built. Statistical Learning — applied. Market Making — reading." width="100%">
+<img src="focus.svg" alt="Market Microstructure — researching. Derivatives & Volatility — implementing. Financial Data Engineering — built. Statistical Learning — applied. Market Making — reading." width="100%">
 
 ---
 
@@ -73,9 +73,9 @@ A research platform for constructing, testing and falsifying fair-value estimato
 
 **Quantitative Research Intern** · February 2026 — July 2026
 
-<img src=".github/assets/internship-stats.svg" alt="1,700+ financial datasets · 250+ raw fundamental and price feeds · thousands of strategies evaluated · zero look-ahead tolerated" width="100%">
+<img src="internship-stats.svg" alt="1,700+ financial datasets · 250+ raw fundamental and price feeds · thousands of strategies evaluated · zero look-ahead tolerated" width="100%">
 
-<img src=".github/assets/research-pipeline.svg" alt="Financial data → NLP preprocessing → factor engineering → strategy research → walk-forward validation → risk overlays → deployment" width="100%">
+<img src="research-pipeline.svg" alt="Financial data → NLP preprocessing → factor engineering → strategy research → walk-forward validation → risk overlays → deployment" width="100%">
 
 Built reusable research infrastructure rather than a single model: NLP preprocessing for corporate announcements, a modular factor library, a plugin-based risk-overlay framework, and point-in-time execution guarantees across the evaluation stack.
 
