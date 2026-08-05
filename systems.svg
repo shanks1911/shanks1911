@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 560" width="1012" height="560" role="img" aria-label="Research systems: Statistical Arbitrage Strategy Explorer; Intraday StatArb Trading Simulator; Derivatives Pricing and Risk System; AQI Forecasting and Health Advisory; Urban Heat Island Detection; Agentic Research Companion.">
+  <rect width="1012" height="560" fill="#0a0c0f"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">05 — RESEARCH SYSTEMS</text>
+  <rect x="240" y="0" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="264" y="34" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">STATISTICAL ARBITRAGE</text>
+  <text x="264" y="66" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Strategy Explorer</text>
+  <text x="264" y="113" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">Cointegration screening,</text>
+  <text x="264" y="131" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">spread construction and</text>
+  <text x="264" y="149" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">daily-horizon pair</text>
+  <text x="264" y="167" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">selection with configurable</text>
+  <text x="264" y="185" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">entry and exit bands.</text>
+  <text x="264" y="250" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">LIVE APP →</text>
+  <rect x="502" y="0" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="526" y="34" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">INTRADAY EXECUTION</text>
+  <text x="526" y="66" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">StatArb Trading</text>
+  <text x="526" y="93" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Simulator</text>
+  <text x="526" y="140" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">Intraday simulation of</text>
+  <text x="526" y="158" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">mean-reverting pair trades,</text>
+  <text x="526" y="176" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">including position sizing,</text>
+  <text x="526" y="194" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">costs and realised PnL</text>
+  <text x="526" y="212" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">attribution.</text>
+  <text x="526" y="250" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">LIVE APP →</text>
+  <rect x="764" y="0" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="788" y="34" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">DERIVATIVES</text>
+  <text x="788" y="66" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Pricing &amp; Risk</text>
+  <text x="788" y="93" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">System</text>
+  <text x="788" y="140" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">Option pricing across</text>
+  <text x="788" y="158" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">analytic and numerical</text>
+  <text x="788" y="176" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">methods, with Greeks,</text>
+  <text x="788" y="194" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">scenario shocks and</text>
+  <text x="788" y="212" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">portfolio-level risk</text>
+  <text x="788" y="230" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">aggregation.</text>
+  <text x="788" y="250" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">LIVE APP →</text>
+  <rect x="240" y="288" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="264" y="322" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">FORECASTING PIPELINE</text>
+  <text x="264" y="354" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">AQI Forecasting &amp;</text>
+  <text x="264" y="381" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Health Advisory</text>
+  <text x="264" y="428" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">End-to-end hourly</text>
+  <text x="264" y="446" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">air-quality forecasting:</text>
+  <text x="264" y="464" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">automated collection,</text>
+  <text x="264" y="482" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">feature engineering, model</text>
+  <text x="264" y="500" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">benchmarking, deployment.</text>
+  <text x="264" y="538" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">CODE →    LIVE APP →</text>
+  <rect x="502" y="288" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="526" y="322" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">GEOSPATIAL ML</text>
+  <text x="526" y="354" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Urban Heat Island</text>
+  <text x="526" y="381" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Detection</text>
+  <text x="526" y="428" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">Satellite-derived land</text>
+  <text x="526" y="446" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">surface temperature, NDVI</text>
+  <text x="526" y="464" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">and impervious-surface</text>
+  <text x="526" y="482" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">features clustered to</text>
+  <text x="526" y="500" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">locate heat islands across</text>
+  <text x="526" y="518" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">Mumbai.</text>
+  <text x="526" y="538" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">CODE →</text>
+  <rect x="764" y="288" width="246" height="272" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="788" y="322" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">MULTI-AGENT SYSTEMS</text>
+  <text x="788" y="354" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Agentic Research</text>
+  <text x="788" y="381" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="21">Companion</text>
+  <text x="788" y="428" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">LangGraph supervisor</text>
+  <text x="788" y="446" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">coordinating planning and</text>
+  <text x="788" y="464" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">research agents over a</text>
+  <text x="788" y="482" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">persistent vector store</text>
+  <text x="788" y="500" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12">with stateful sessions.</text>
+  <text x="788" y="538" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">CODE →</text>
+</svg>

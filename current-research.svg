@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 494" width="1012" height="494" role="img" aria-label="Current research. Market Microstructure Research Platform. Estimating fair value from high-frequency futures limit order books. Method: LOB snapshots, estimator, point-in-time replay, block bootstrap, significance test, accept or reject. Estimators: microprice, weighted midprice, order flow imbalance, queue imbalance. Evaluation: point-in-time replay, walk-forward splits, frozen holdout, significance testing. Next: inventory-aware quoting, optimal execution, reinforcement learning, low-latency C++. Python, NumPy, Databento, statsmodels, C++.">
+  <rect width="1012" height="494" fill="#0a0c0f"></rect>
+  <rect x="240" y="0" width="772" height="494" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">04 — CURRENT RESEARCH</text>
+  <text x="268" y="38" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.2">MARKET MICROSTRUCTURE RESEARCH PLATFORM</text>
+  <text x="268" y="76" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="26">Estimating fair value from high-frequency futures limit</text>
+  <text x="268" y="110" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="26">order books</text>
+  <text x="268" y="158" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">A research platform for constructing, testing and falsifying fair-value estimators on</text>
+  <text x="268" y="180" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">tick-level futures data — with the evaluation layer treated as the primary artifact, not an</text>
+  <text x="268" y="202" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">afterthought.</text>
+  <rect x="268" y="238" width="93" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="314.5" y="259.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">LOB SNAPSHOTS</text>
+  <text x="370" y="259.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="379" y="238" width="69" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="413.5" y="259.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">ESTIMATOR</text>
+  <text x="457" y="259.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="466" y="238" width="134" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="533" y="259.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">POINT-IN-TIME REPLAY</text>
+  <text x="609" y="259.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="618" y="238" width="105" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="670.5" y="259.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">BLOCK BOOTSTRAP</text>
+  <text x="732" y="259.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="741" y="238" width="117" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="799.5" y="259.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">SIGNIFICANCE TEST</text>
+  <text x="867" y="259.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="876" y="238" width="105" height="34" fill="#101720" stroke="#b9d9eb"></rect>
+  <text x="928.5" y="259.5" fill="#dfe4ea" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.25" letter-spacing="1" text-anchor="middle">ACCEPT / REJECT</text>
+  <path d="M240 298H1012" stroke="#1a1f26"></path>
+  <text x="264" y="330" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">ESTIMATORS</text>
+  <text x="264" y="358" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Microprice</text>
+  <text x="264" y="380" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Weighted midprice</text>
+  <text x="264" y="402" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Order flow imbalance</text>
+  <text x="264" y="424" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Queue imbalance</text>
+  <path d="M497.1666666666667 298V448" stroke="#1a1f26"></path>
+  <text x="521.6666666666667" y="330" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">EVALUATION</text>
+  <text x="521.6666666666667" y="358" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Point-in-time replay</text>
+  <text x="521.6666666666667" y="380" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Walk-forward splits</text>
+  <text x="521.6666666666667" y="402" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Frozen holdout</text>
+  <text x="521.6666666666667" y="424" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Significance testing</text>
+  <path d="M754.8333333333334 298V448" stroke="#1a1f26"></path>
+  <text x="779.3333333333334" y="330" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">NEXT</text>
+  <text x="779.3333333333334" y="358" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Inventory-aware quoting</text>
+  <text x="779.3333333333334" y="380" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Optimal execution</text>
+  <text x="779.3333333333334" y="402" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Reinforcement learning</text>
+  <text x="779.3333333333334" y="424" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5">Low-latency C++</text>
+  <path d="M240 448H1012" stroke="#1a1f26"></path>
+  <text x="268" y="476" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1">PYTHON  /  NUMPY  /  DATABENTO  /  STATSMODELS  /  C++</text>
+</svg>

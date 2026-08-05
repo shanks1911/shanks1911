@@ -1,34 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 340" width="1012" height="340" role="img" aria-label="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research, Market Microstructure, Systematic Trading.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 380" width="1012" height="380" role="img" aria-label="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research, Market Microstructure, Systematic Trading. Research areas: market microstructure, systematic trading, statistical learning, derivatives, financial data engineering.">
   
   <defs>
-    <linearGradient id="bidg" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#b9d9eb" stop-opacity="0.03"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0.26"></stop>
-    </linearGradient>
-    <linearGradient id="askg" x1="0" y1="1" x2="0" y2="0">
-      <stop offset="0" stop-color="#e0a25e" stop-opacity="0.03"></stop><stop offset="1" stop-color="#e0a25e" stop-opacity="0.20"></stop>
-    </linearGradient>
-    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#b9d9eb" stop-opacity="0"></stop><stop offset=".5" stop-color="#b9d9eb" stop-opacity="0.06"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0"></stop>
-    </linearGradient>
+    <linearGradient id="bidg" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#b9d9eb" stop-opacity="0.03"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0.26"></stop></linearGradient>
+    <linearGradient id="askg" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#e0a25e" stop-opacity="0.03"></stop><stop offset="1" stop-color="#e0a25e" stop-opacity="0.20"></stop></linearGradient>
+    <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b9d9eb" stop-opacity="0"></stop><stop offset=".5" stop-color="#b9d9eb" stop-opacity="0.06"></stop><stop offset="1" stop-color="#b9d9eb" stop-opacity="0"></stop></linearGradient>
   </defs>
-  <rect width="1012" height="340" fill="#0d1116"></rect>
+  <rect width="1012" height="380" fill="#0d1116"></rect>
   <g stroke="#161c23" stroke-width="1">
-    <path d="M0 40H1012M0 80H1012M0 120H1012M0 160H1012M0 200H1012M0 240H1012M0 280H1012M0 320H1012"></path>
-    <path d="M84 0V340M168 0V340M252 0V340M336 0V340M420 0V340M504 0V340M588 0V340M672 0V340M756 0V340M840 0V340M924 0V340"></path>
+    <path d="M0 40H1012M0 80H1012M0 120H1012M0 160H1012M0 200H1012M0 240H1012M0 280H1012M0 320H1012M0 360H1012"></path>
+    <path d="M84 0V380M168 0V380M252 0V380M336 0V380M420 0V380M504 0V380M588 0V380M672 0V380M756 0V380M840 0V380M924 0V380"></path>
   </g>
-  <path class="bid" d="M40,300 V190 H78 V196 H116 V205 H154 V212 H192 V224 H230 V233 H268 V244 H306 V252 H344 V263 H382 V272 H420 V283 H458 V292 H490 V300 Z" fill="url(#bidg)" stroke="#b9d9eb" stroke-opacity="0.45"></path>
-  <path class="ask" d="M522,300 V292 H560 V284 H598 V275 H636 V266 H674 V255 H712 V246 H750 V236 H788 V226 H826 V215 H864 V206 H902 V196 H940 V186 H972 V300 Z" fill="url(#askg)" stroke="#e0a25e" stroke-opacity="0.40"></path>
-  <path d="M506,140 V320" stroke="#b9d9eb" stroke-opacity="0.30" stroke-dasharray="3 5"></path>
-  <g font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace">
-    <text x="506" y="332" fill="#6d7783" font-size="9" letter-spacing="1.4" text-anchor="middle">MID</text>
-    <text x="40" y="322" fill="#4d5661" font-size="9" letter-spacing="1.4">CUMULATIVE BID DEPTH</text>
-    <text x="972" y="322" fill="#4d5661" font-size="9" letter-spacing="1.4" text-anchor="end">CUMULATIVE ASK DEPTH</text>
-    <text x="40" y="58" fill="#5d6673" font-size="10" letter-spacing="3.2">M.S. COMPUTER SCIENCE — COLUMBIA UNIVERSITY</text>
-    <text x="42" y="168" fill="#b9d9eb" font-size="13" letter-spacing="1.4">Quantitative Research  ·  Market Microstructure  ·  Systematic Trading</text>
-    <text x="972" y="58" fill="#4d5661" font-size="11" text-anchor="end">P_micro = (V_a·P_b + V_b·P_a) / (V_a + V_b)</text>
-    <text x="972" y="80" fill="#4d5661" font-size="11" text-anchor="end">OFI_t = Σ ΔV_b − ΔV_a</text>
-    <text x="972" y="102" fill="#4d5661" font-size="11" text-anchor="end">I_q = (V_b − V_a) / (V_b + V_a)</text>
-  </g>
+
+  <text x="40" y="58" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="3.2">M.S. COMPUTER SCIENCE — COLUMBIA UNIVERSITY</text>
   <text x="40" y="132" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="66" letter-spacing="-1">Sanket Dangle</text>
-  <rect class="sweep" x="0" y="0" width="140" height="340" fill="url(#sw)"></rect>
+  <text x="42" y="168" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13" letter-spacing="1.2">Quantitative Research  ·  Market Microstructure  ·  Systematic Trading</text>
+  <path d="M42 186H430" stroke="#232a33"></path>
+  <g class="ar">
+  <circle cx="46" cy="214" r="2.6" fill="#b9d9eb" opacity="0.85"></circle>
+  <text x="62" y="218" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="0.3">Market Microstructure</text>
+  <circle cx="46" cy="242" r="2.6" fill="#b9d9eb" opacity="0.85"></circle>
+  <text x="62" y="246" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="0.3">Systematic Trading</text>
+  <circle cx="46" cy="270" r="2.6" fill="#b9d9eb" opacity="0.85"></circle>
+  <text x="62" y="274" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="0.3">Statistical Learning</text>
+  <circle cx="46" cy="298" r="2.6" fill="#b9d9eb" opacity="0.85"></circle>
+  <text x="62" y="302" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="0.3">Derivatives</text>
+  <circle cx="46" cy="326" r="2.6" fill="#b9d9eb" opacity="0.85"></circle>
+  <text x="62" y="330" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="0.3">Financial Data Engineering</text>
+  </g>
+
+  <path class="bid" style="transform-origin:520px 330px" d="M520,330 V210 H542 V216 H565 V224 H587 V232 H610 V242 H632 V252 H655 V262 H677 V272 H700 V282 H722 V292 H745 V330 Z" fill="url(#bidg)"></path>
+  <path class="march" d="M520,210 H542 V216 H565 V224 H587 V232 H610 V242 H632 V252 H655 V262 H677 V272 H700 V282 H722 V292 H745" fill="none" stroke="#b9d9eb" stroke-opacity="0.55"></path>
+  <path class="ask" style="transform-origin:980px 330px" d="M755,330 V292 H777 V284 H800 V275 H822 V266 H845 V256 H867 V246 H890 V236 H912 V226 H935 V216 H957 V206 H980 V330 Z" fill="url(#askg)"></path>
+  <path class="march" d="M755,292 H777 V284 H800 V275 H822 V266 H845 V256 H867 V246 H890 V236 H912 V226 H935 V216 H957 V206 H980" fill="none" stroke="#e0a25e" stroke-opacity="0.5"></path>
+
+  <path class="mid" d="M750,176 V344" stroke="#b9d9eb" stroke-width="1" stroke-dasharray="3 5"></path>
+  <circle class="pb" cx="745" cy="292" r="3" fill="#b9d9eb"></circle>
+  <circle class="pa" cx="755" cy="292" r="3" fill="#e0a25e"></circle>
+  <path d="M726 196H744M756 196H774" stroke="#3a4550"></path>
+  <g font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" fill="#6d7783" font-size="9" letter-spacing="1.4">
+    <text x="750" y="190" text-anchor="middle" fill="#98a1ac">SPREAD</text>
+    <text x="750" y="356" text-anchor="middle">MID</text>
+    <text x="520" y="356">CUMULATIVE BID DEPTH</text>
+    <text x="980" y="356" text-anchor="end">CUMULATIVE ASK DEPTH</text>
+    <text x="737" y="316" text-anchor="end" fill="#4d5661">BEST BID</text>
+    <text x="763" y="316" fill="#4d5661">BEST ASK</text>
+  </g>
+  <g font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" fill="#4d5661" font-size="11" text-anchor="end">
+    <text x="980" y="58">P_micro = (V_a·P_b + V_b·P_a) / (V_a + V_b)</text>
+    <text x="980" y="80">OFI_t = Σ ΔV_b − ΔV_a</text>
+    <text x="980" y="102">I_q = (V_b − V_a) / (V_b + V_a)</text>
+    <text x="980" y="124">VWAP = Σ p_i v_i / Σ v_i</text>
+  </g>
+  <rect class="sweep" x="0" y="0" width="140" height="380" fill="url(#sw)"></rect>
 </svg>

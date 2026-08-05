@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 237" width="1012" height="237" role="img" aria-label="Open questions: Can order flow imbalance improve on the microprice as a fair-value estimator? Where does the microprice break down, and what regimes predict that failure? How should fair value be defined when the book is thin and one-sided? How much short-horizon return does queue imbalance actually explain?">
+  <rect width="1012" height="237" fill="#0a0c0f"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">03 — OPEN QUESTIONS</text>
+  <rect x="240" y="0" width="772" height="237" fill="#1a1f26"></rect>
+  <rect x="240" y="0" width="385.5" height="118" fill="#0f1318"></rect>
+  <text x="264" y="32" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6">Q1</text>
+  <text x="264" y="60" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">Can order flow imbalance improve on</text>
+  <text x="264" y="87" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">the microprice as a fair-value</text>
+  <text x="264" y="114" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">estimator?</text>
+  <rect x="626.5" y="0" width="385.5" height="118" fill="#0f1318"></rect>
+  <text x="650.5" y="32" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6">Q2</text>
+  <text x="650.5" y="60" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">Where does the microprice break</text>
+  <text x="650.5" y="87" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">down, and what regimes predict that</text>
+  <text x="650.5" y="114" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">failure?</text>
+  <rect x="240" y="119" width="385.5" height="118" fill="#0f1318"></rect>
+  <text x="264" y="151" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6">Q3</text>
+  <text x="264" y="179" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">How should fair value be defined</text>
+  <text x="264" y="206" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">when the book is thin and one-sided?</text>
+  <rect x="626.5" y="119" width="385.5" height="118" fill="#0f1318"></rect>
+  <text x="650.5" y="151" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.6">Q4</text>
+  <text x="650.5" y="179" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">How much short-horizon return does</text>
+  <text x="650.5" y="206" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">queue imbalance actually explain?</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 290" width="1012" height="290" role="img" aria-label="Research statement: I am interested in how electronic markets work beneath the charts. My work focuses on designing reproducible experiments, building research infrastructure, and validating quantitative ideas against real market data. Most of what I know came from watching promising strategies fail under honest validation. That changed how I structure research: data integrity first, then evaluation, then models.">
+  <rect width="1012" height="290" fill="#0a0c0f"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">01 — STATEMENT</text>
+  <text x="240" y="26" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="23">I am interested in how electronic markets work beneath the</text>
+  <text x="240" y="60" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="23">charts. My work focuses on designing reproducible</text>
+  <text x="240" y="94" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="23">experiments, building research infrastructure, and</text>
+  <text x="240" y="128" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="23">validating quantitative ideas against real market data.</text>
+  <text x="240" y="190" fill="#98a1ac" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">Most of what I know came from watching promising strategies fail under</text>
+  <text x="240" y="220" fill="#98a1ac" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">honest validation. That changed how I structure research: data</text>
+  <text x="240" y="250" fill="#98a1ac" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="19">integrity first, then evaluation, then models.</text>
+</svg>

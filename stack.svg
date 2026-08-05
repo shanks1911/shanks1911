@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 150" width="1012" height="150" role="img" aria-label="Stack. Languages: Python, C++, SQL. Libraries: NumPy, Pandas, SciPy, statsmodels, PyTorch. Infrastructure: Docker, Git, Postgres, AWS.">
+  <rect width="1012" height="150" fill="#0a0c0f"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">09 — STACK</text>
+  <rect x="240" y="0" width="772" height="150" fill="#1a1f26"></rect>
+  <rect x="240" y="0" width="256.6666666666667" height="150" fill="#0f1318"></rect>
+  <text x="264" y="34" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">LANGUAGES</text>
+  <text x="264" y="64" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Python</text>
+  <text x="264" y="88" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">C++</text>
+  <text x="264" y="112" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">SQL</text>
+  <rect x="497.6666666666667" y="0" width="256.6666666666667" height="150" fill="#0f1318"></rect>
+  <text x="521.6666666666667" y="34" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">LIBRARIES</text>
+  <text x="521.6666666666667" y="64" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">NumPy · Pandas</text>
+  <text x="521.6666666666667" y="88" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">SciPy · statsmodels</text>
+  <text x="521.6666666666667" y="112" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">PyTorch</text>
+  <rect x="755.3333333333334" y="0" width="256.6666666666667" height="150" fill="#0f1318"></rect>
+  <text x="779.3333333333334" y="34" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">INFRASTRUCTURE</text>
+  <text x="779.3333333333334" y="64" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Docker · Git</text>
+  <text x="779.3333333333334" y="88" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Postgres</text>
+  <text x="779.3333333333334" y="112" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">AWS</text>
+</svg>

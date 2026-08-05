@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1012 504" width="1012" height="504" role="img" aria-label="Industry research. Raise Financial Services (Stratzy AI), Quantitative Research Intern, February 2026 to July 2026. 1,700+ financial datasets; 250+ raw fundamental and price feeds; 1000+ strategies evaluated; zero look-ahead tolerated. Pipeline: financial data, NLP preprocessing, factor engineering, strategy research, walk-forward validation, risk overlays, deployment. Research principles: data before models; validation before optimization; reproducibility over complexity; honest negative results matter.">
+  <rect width="1012" height="504" fill="#0a0c0f"></rect>
+  <text x="0" y="24" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="2.6">06 — INDUSTRY RESEARCH</text>
+  <text x="240" y="30" fill="#f2f5f8" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="26">Raise Financial Services <tspan fill="#6d7783" font-size="20">(Stratzy AI)</tspan></text>
+  <text x="240" y="56" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.4">QUANTITATIVE RESEARCH INTERN</text>
+  <text x="1012" y="30" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.4" text-anchor="end">FEB 2026 — JUL 2026</text>
+  <path d="M240 74H1012" stroke="#1a1f26"></path>
+  <rect x="240" y="100" width="772" height="108" fill="#0f1318" stroke="#1e242c"></rect>
+  <text x="336.5" y="152" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">1,700+</text>
+  <text x="336.5" y="176" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">FINANCIAL DATASETS</text>
+  <text x="529.5" y="152" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">250+</text>
+  <text x="529.5" y="176" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">RAW FUNDAMENTAL &amp; PRICE FEEDS</text>
+  <path d="M433 101V207" stroke="#1a1f26"></path>
+  <text x="722.5" y="152" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">1000+</text>
+  <text x="722.5" y="176" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">STRATEGIES EVALUATED</text>
+  <path d="M626 101V207" stroke="#1a1f26"></path>
+  <text x="915.5" y="152" fill="#b9d9eb" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="30" text-anchor="middle">0</text>
+  <text x="915.5" y="176" fill="#6d7783" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.4" text-anchor="middle">LOOK-AHEAD TOLERATED</text>
+  <path d="M819 101V207" stroke="#1a1f26"></path>
+  <rect x="240" y="234" width="83" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="281.5" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">FINANCIAL DATA</text>
+  <text x="332" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="341" y="234" width="98" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="390" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">NLP PREPROCESSING</text>
+  <text x="448" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="457" y="234" width="102" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="508" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">FACTOR ENGINEERING</text>
+  <text x="568" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="577" y="234" width="98" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="626" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">STRATEGY RESEARCH</text>
+  <text x="684" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="693" y="234" width="126" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="756" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">WALK-FORWARD VALIDATION</text>
+  <text x="828" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="837" y="234" width="78" height="34" fill="#0f1318" stroke="#232a33"></rect>
+  <text x="876" y="255.5" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">RISK OVERLAYS</text>
+  <text x="924" y="255.5" fill="#3a4550" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">→</text>
+  <rect x="933" y="234" width="64" height="34" fill="#101720" stroke="#b9d9eb"></rect>
+  <text x="965" y="255.5" fill="#dfe4ea" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="7.5" letter-spacing="1" text-anchor="middle">DEPLOYMENT</text>
+  <text x="240" y="302" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Built reusable research infrastructure rather than a single model: NLP preprocessing</text>
+  <text x="240" y="324" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">for corporate announcements, a modular factor library, a plugin-based risk-overlay</text>
+  <text x="240" y="346" fill="#98a1ac" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">framework, and point-in-time execution guarantees across the evaluation stack.</text>
+  <path d="M240 374V402" stroke="#b9d9eb"></path>
+  <text x="256" y="394" fill="#dfe4ea" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="20" font-style="italic">Robust research starts with robust data.</text>
+  <text x="240" y="438" fill="#5d6673" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="10" letter-spacing="1.8">RESEARCH PRINCIPLES</text>
+  <text x="240" y="466" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">·</text>
+  <text x="254" y="466" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Data before models</text>
+  <text x="580" y="466" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">·</text>
+  <text x="594" y="466" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Validation before optimization</text>
+  <text x="240" y="490" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">·</text>
+  <text x="254" y="490" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Reproducibility over complexity</text>
+  <text x="580" y="490" fill="#b9d9eb" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">·</text>
+  <text x="594" y="490" fill="#c9ced6" font-family="ui-monospace,&#39;SFMono-Regular&#39;,Menlo,Consolas,monospace" font-size="13">Honest negative results matter</text>
+</svg>
