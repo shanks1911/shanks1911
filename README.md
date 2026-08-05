@@ -6,7 +6,7 @@
 
 ### Quantitative Research • Market Microstructure • Statistical Learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+research+systems+for+financial+markets;Learning+how+modern+electronic+markets+work;Turning+data+into+reproducible+research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+research+systems+for+financial+markets;Learning+how+modern+electronic+markets+work;Turning+data+into+reproducible+research;Always+curious.+Always+learning.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,13 +14,11 @@
 
 # About Me
 
-I'm interested in understanding **how financial markets work beneath the charts**.
+I'm interested in understanding **how financial markets work beneath the charts.**
 
-My work revolves around designing experiments, building research infrastructure, and solving quantitative problems using real-world datasets.
+Over the last few years, my interests have gradually shifted from building AI applications to studying **quantitative research**, **market microstructure**, and **financial data engineering**.
 
-Over the last few years, my interests have gradually shifted from general AI engineering toward **quantitative research**, **market microstructure**, and **financial data engineering**.
-
-I enjoy turning messy datasets into reproducible research.
+I enjoy asking questions, working with messy real-world datasets, designing experiments, and building research systems whose results can be trusted.
 
 ---
 
@@ -28,36 +26,35 @@ I enjoy turning messy datasets into reproducible research.
 
 | | |
 |:---|:---|
-| 🎓 Education | M.S. Computer Science, Columbia University |
-| 📍 Current Focus | Market Microstructure & Quantitative Research |
-| 💼 Previous Experience | Quantitative Research Intern @ Raise Financial Services (Stratzy AI) |
-| 🧠 Current Goal | Becoming a Quantitative Researcher |
-| 📚 Currently Learning | Market Microstructure, Derivatives, Stochastic Processes, Financial Econometrics |
+| 🎓 Education | **M.S. Computer Science, Columbia University** |
+| 💼 Experience | **Quantitative Research Intern @ Raise Financial Services (Stratzy AI)** |
+| 📍 Current Focus | Market Microstructure & High-Frequency Trading |
+| 🎯 Long-Term Goal | Quantitative Research |
+| 📚 Currently Studying | Market Microstructure • Derivatives • Stochastic Processes • Financial Econometrics |
 
 ---
 
-# 🚀 Currently Building
+# 🚀 Current Research
 
 ## 🔬 Market Microstructure Research Platform *(Flagship Project)*
 
-Building a research platform for studying **fair value estimation** using **high-frequency futures limit order book data**.
+Building a research platform for evaluating **fair value estimation techniques** using **high-frequency futures limit order book data**.
 
-### Current Research Topics
+### Current Research Areas
 
 - Fair Value Estimation
 - Microprice
-- Order Flow Imbalance
+- Order Flow Imbalance (OFI)
 - Queue Imbalance
 - Statistical Feature Engineering
-- High Frequency Data Pipelines
-- Market Microstructure
+- High-Frequency Data Pipelines
 
 ### Planned Extensions
 
 - Inventory-Aware Market Making
 - Optimal Execution
 - Reinforcement Learning
-- Low Latency Research Infrastructure
+- Low-Latency Research Infrastructure
 
 ---
 
@@ -65,17 +62,17 @@ Building a research platform for studying **fair value estimation** using **high
 
 ## Quantitative Research Intern — Raise Financial Services (Stratzy AI)
 
-Worked on systematic equity research involving
+Worked on systematic equity research involving:
 
 - 📊 1700+ financial datasets
 - 📈 Fundamental & Price Data Engineering
 - 📝 NLP pipelines for corporate actions
-- 🔍 Systematic strategy research
-- 📉 Walk-forward validation
-- ✅ Out-of-sample evaluation
-- ⚙️ Research infrastructure
+- 🔍 Strategy Research & Validation
+- 📉 Walk-forward Testing
+- ✅ Out-of-sample Evaluation
+- ⚙️ Quantitative Research Infrastructure
 
-> **Biggest takeaway:** Good research starts with good data.
+> **Biggest lesson:** Good research starts with good data.
 
 ---
 
@@ -83,9 +80,9 @@ Worked on systematic equity research involving
 
 ## 🌍 Urban Heat Island Detection
 
-Machine learning research project using **Google Earth Engine** and satellite imagery to identify Urban Heat Islands across Mumbai.
+Research project using **Google Earth Engine** and satellite imagery to identify Urban Heat Islands across Mumbai.
 
-### Data Sources
+**Worked with**
 
 - Land Surface Temperature
 - NDVI
@@ -98,7 +95,7 @@ Machine learning research project using **Google Earth Engine** and satellite im
 
 ## 🌫 AQI Forecasting & Health Advisory
 
-End-to-end forecasting system combining
+Built an end-to-end AQI forecasting system combining
 
 - Google Air Quality API
 - OpenAQ
@@ -106,22 +103,39 @@ End-to-end forecasting system combining
 
 Features
 
-- Real-time forecasting
-- Multiple ML models
-- Automated data pipelines
-- Personalized health advisory
-- Streamlit deployment
+- Hourly AQI Forecasting
+- Multiple ML Models
+- Automated Data Pipelines
+- Personalized Health Advisory
+- Streamlit Deployment
 
 ---
 
-## 🤖 Agentic AI Project Companion
+## 🤖 Agentic AI Research Companion
 
 Multi-agent research assistant built using
 
 - LangGraph
 - LangChain
-- Gemini
+- Google Gemini
 - Retrieval-Augmented Generation (RAG)
+
+---
+
+# 📝 Research Log
+
+### August 2026
+
+- Started studying market microstructure and high-frequency trading
+- Designing the architecture for the Market Microstructure Research Platform
+- Reading literature on microprice, order flow imbalance, and fair value estimation
+
+### Coming Next
+
+- Implement fair value estimators
+- Benchmark classical vs learned estimators
+- Build market making simulator
+- Publish technical report and open-source implementation
 
 ---
 
@@ -129,11 +143,11 @@ Multi-agent research assistant built using
 
 > **"Good models don't fix bad data."**
 
-I enjoy building systems, but I enjoy understanding **why they work** even more.
+I enjoy building systems, but I enjoy understanding **why** they work even more.
 
-Whether the problem is in finance, environmental science, or machine learning, I like starting with messy real-world data, designing careful experiments, validating assumptions, and building solutions that are reproducible.
+Whether the problem is in finance, environmental science, or machine learning, I like starting with messy real-world datasets, designing careful experiments, validating assumptions, and building solutions that are reproducible.
 
-To me, the quality of the data and the quality of the experiment matter more than the complexity of the model.
+To me, **the quality of the data and the quality of the experiment matter more than the complexity of the model.**
 
 ---
 
@@ -141,61 +155,27 @@ To me, the quality of the data and the quality of the experiment matter more tha
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
----
+`Python` • `C++` • `SQL`
 
 ### Quantitative Computing
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge)
-
----
+`NumPy` • `Pandas` • `SciPy` • `Statsmodels`
 
 ### Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
----
+`Scikit-Learn` • `PyTorch` • `TensorFlow`
 
 ### AI
 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-
----
+`LangChain` • `LangGraph` • `Google Gemini`
 
 ### Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+`Docker` • `FastAPI` • `PostgreSQL` • `Git`
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 📅 Research Timeline
+# 📅 Journey
 
 ```text
 2023
@@ -210,13 +190,13 @@ To me, the quality of the data and the quality of the experiment matter more tha
 │
 2025
 │
-├── Quantitative Research @ Stratzy AI
+├── Quantitative Research Internship @ Stratzy AI
 │
 2026
 │
 ├── Columbia University
 ├── Market Microstructure
-├── High Frequency Trading
+├── High-Frequency Trading
 │
 2027
 │
@@ -227,34 +207,37 @@ To me, the quality of the data and the quality of the experiment matter more tha
 
 # 📖 Currently Reading
 
-- Market Microstructure Theory
-- Advances in Financial Machine Learning
-- Options, Futures & Other Derivatives
-- Algorithmic Trading
-- Active Research Papers from SSRN & arXiv
+- 📘 Market Microstructure Theory
+- 📘 Advances in Financial Machine Learning
+- 📘 Options, Futures & Other Derivatives
+- 📘 Algorithmic Trading
+- 📄 Current SSRN & arXiv Papers
 
 ---
 
 # 🎯 Current Goals
 
 - ✅ Columbia University
-- 🔄 Market Microstructure Research Platform
-- 🔄 Futures Market Research
-- 🔄 Quant Internship (Summer 2027)
-- 🔄 Research Publications
-- 🔄 Open Source Quant Tools
+- 🔄 Build Market Microstructure Research Platform
+- 🔄 Publish Technical Report
+- 🔄 Summer 2027 Quant Internship
+- 🔄 Contribute to Open Source Quant Projects
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket_Dangle-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanketdangle)
+<a href="https://linkedin.com/in/sanketdangle">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-sanket1537@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanket1537@gmail.com)
+<a href="mailto:sanket1537@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+</p>
 
 ---
 
