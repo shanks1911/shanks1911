@@ -1,93 +1,91 @@
+<div align="center">
+
 # Hi, I'm Sanket Dangle 👋
 
-**Incoming M.S. Computer Science Student @ Columbia University**
+### Incoming M.S. in Computer Science @ Columbia University
 
-I'm interested in quantitative research, market microstructure, derivatives, and statistical learning. I enjoy building research systems that combine careful experimentation with production-quality engineering.
+### Quantitative Research • Market Microstructure • Statistical Learning
 
-Currently, my focus is understanding how modern electronic markets work and building tools that help answer quantitative research questions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+research+systems+for+financial+markets;Learning+how+modern+electronic+markets+work;Turning+data+into+reproducible+research)](https://git.io/typing-svg)
 
----
-
-## Research Interests
-
-- Market Microstructure
-- Quantitative Research
-- Derivatives & Options
-- Statistical Learning
-- Financial Data Engineering
-- High-Performance Computing
-- Machine Learning for Financial Markets
+</div>
 
 ---
 
-## What I'm Working On
+# About Me
 
-### 🔬 Market Microstructure Research Platform *(Current Flagship Project)*
+I'm interested in understanding **how financial markets work beneath the charts**.
 
-Building a research platform for studying fair value estimation in futures markets using high-frequency limit order book data.
+My work revolves around designing experiments, building research infrastructure, and solving quantitative problems using real-world datasets.
 
-Current areas of focus include:
+Over the last few years, my interests have gradually shifted from general AI engineering toward **quantitative research**, **market microstructure**, and **financial data engineering**.
 
-- Fair value estimation
+I enjoy turning messy datasets into reproducible research.
+
+---
+
+# 🔬 Research Dashboard
+
+| | |
+|:---|:---|
+| 🎓 Education | M.S. Computer Science, Columbia University |
+| 📍 Current Focus | Market Microstructure & Quantitative Research |
+| 💼 Previous Experience | Quantitative Research Intern @ Raise Financial Services (Stratzy AI) |
+| 🧠 Current Goal | Becoming a Quantitative Researcher |
+| 📚 Currently Learning | Market Microstructure, Derivatives, Stochastic Processes, Financial Econometrics |
+
+---
+
+# 🚀 Currently Building
+
+## 🔬 Market Microstructure Research Platform *(Flagship Project)*
+
+Building a research platform for studying **fair value estimation** using **high-frequency futures limit order book data**.
+
+### Current Research Topics
+
+- Fair Value Estimation
 - Microprice
 - Order Flow Imbalance
-- Queue imbalance
-- Feature engineering
-- Statistical evaluation
-- High-frequency market data pipelines
+- Queue Imbalance
+- Statistical Feature Engineering
+- High Frequency Data Pipelines
+- Market Microstructure
 
-Future work includes:
+### Planned Extensions
 
-- Inventory-aware market making
-- Optimal execution
-- Reinforcement learning for market making
-
----
-
-### 📈 Quantitative Research
-
-During my internship at **Raise Financial Services (Stratzy AI)**, I worked on systematic equity research involving:
-
-- 1,700+ financial datasets
-- Fundamental and price data engineering
-- NLP pipelines for corporate actions
-- Systematic strategy validation
-- Walk-forward testing
-- Out-of-sample evaluation
-- Research infrastructure
-
-The biggest lesson I took away was that good research starts with good data.
+- Inventory-Aware Market Making
+- Optimal Execution
+- Reinforcement Learning
+- Low Latency Research Infrastructure
 
 ---
 
-## Selected Projects
+# 💼 Industry Experience
 
-### Market Microstructure Research Platform *(In Progress)*
+## Quantitative Research Intern — Raise Financial Services (Stratzy AI)
 
-Research platform for evaluating fair value estimators using high-frequency futures data.
+Worked on systematic equity research involving
 
-**Tech:** Python, C++, NumPy, Pandas, pybind11
+- 📊 1700+ financial datasets
+- 📈 Fundamental & Price Data Engineering
+- 📝 NLP pipelines for corporate actions
+- 🔍 Systematic strategy research
+- 📉 Walk-forward validation
+- ✅ Out-of-sample evaluation
+- ⚙️ Research infrastructure
 
----
-
-### AQI Forecasting & Health Advisory
-
-Machine learning system combining Google Air Quality, OpenAQ and OpenMeteo data to forecast AQI and generate personalized health recommendations.
-
-Highlights:
-
-- Automated data collection
-- Time-series forecasting
-- Multiple ML models
-- Streamlit deployment
+> **Biggest takeaway:** Good research starts with good data.
 
 ---
 
-### Urban Heat Island Detection
+# 📂 Featured Projects
 
-Research project using Google Earth Engine and satellite imagery to identify Urban Heat Islands across Mumbai.
+## 🌍 Urban Heat Island Detection
 
-Data sources included:
+Machine learning research project using **Google Earth Engine** and satellite imagery to identify Urban Heat Islands across Mumbai.
+
+### Data Sources
 
 - Land Surface Temperature
 - NDVI
@@ -98,46 +96,40 @@ Data sources included:
 
 ---
 
-### Agentic AI Project Companion
+## 🌫 AQI Forecasting & Health Advisory
 
-Multi-agent research assistant built using LangGraph, LangChain and Gemini.
+End-to-end forecasting system combining
 
-Features include:
+- Google Air Quality API
+- OpenAQ
+- OpenMeteo
 
-- Multi-agent workflows
-- Stateful RAG
-- Dynamic document ingestion
-- Interactive research assistant
+Features
 
----
-
-## Technical Skills
-
-### Languages
-
-Python • C++ • SQL
-
-### Quantitative Computing
-
-NumPy • Pandas • SciPy • statsmodels • scikit-learn
-
-### Machine Learning
-
-Time Series • NLP • Statistical Modeling • Feature Engineering
-
-### AI
-
-LangChain • LangGraph • Google Gemini • TensorFlow
-
-### Infrastructure
-
-Docker • PostgreSQL • FastAPI • Streamlit • Git
+- Real-time forecasting
+- Multiple ML models
+- Automated data pipelines
+- Personalized health advisory
+- Streamlit deployment
 
 ---
 
-## Research Philosophy
+## 🤖 Agentic AI Project Companion
 
-I enjoy building systems, but I enjoy understanding why they work even more.
+Multi-agent research assistant built using
+
+- LangGraph
+- LangChain
+- Gemini
+- Retrieval-Augmented Generation (RAG)
+
+---
+
+# 📚 Research Philosophy
+
+> **"Good models don't fix bad data."**
+
+I enjoy building systems, but I enjoy understanding **why they work** even more.
 
 Whether the problem is in finance, environmental science, or machine learning, I like starting with messy real-world data, designing careful experiments, validating assumptions, and building solutions that are reproducible.
 
@@ -145,56 +137,129 @@ To me, the quality of the data and the quality of the experiment matter more tha
 
 ---
 
-## Education
+# 🛠 Technical Stack
 
-**Columbia University**
+### Languages
 
-M.S. Computer Science
-
-Machine Learning Track
-
-Expected Graduation: December 2027
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
-## Publications
+### Quantitative Computing
 
-- Urban Heat Island Prediction using Machine Learning
-- Air Quality Forecasting using Machine Learning
-
-(International Conference Publications)
-
----
-
-## Currently Learning
-
-- Market Microstructure
-- Stochastic Processes
-- Derivatives
-- High-Frequency Trading
-- Low-Latency C++
-- Financial Econometrics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge)
 
 ---
 
-## Looking For
+### Machine Learning
 
-I'm always interested in discussing
-
-- Quantitative Research
-- Financial Markets
-- Market Microstructure
-- Machine Learning
-- Systems Engineering
-
-or collaborating on interesting research projects.
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
 ---
 
-## Connect
+### AI
 
-LinkedIn: https://linkedin.com/in/sanketdangle
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
 
-Email: sanket1537@gmail.com
+---
 
-GitHub: https://github.com/shanks1911
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=shanks1911&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shanks1911&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanks1911&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📅 Research Timeline
+
+```text
+2023
+│
+├── Machine Learning
+│
+2024
+│
+├── Urban Heat Island Research
+├── AQI Forecasting
+├── International Publications
+│
+2025
+│
+├── Quantitative Research @ Stratzy AI
+│
+2026
+│
+├── Columbia University
+├── Market Microstructure
+├── High Frequency Trading
+│
+2027
+│
+└── Quantitative Research
+```
+
+---
+
+# 📖 Currently Reading
+
+- Market Microstructure Theory
+- Advances in Financial Machine Learning
+- Options, Futures & Other Derivatives
+- Algorithmic Trading
+- Active Research Papers from SSRN & arXiv
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Columbia University
+- 🔄 Market Microstructure Research Platform
+- 🔄 Futures Market Research
+- 🔄 Quant Internship (Summer 2027)
+- 🔄 Research Publications
+- 🔄 Open Source Quant Tools
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket_Dangle-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sanketdangle)
+
+[![Email](https://img.shields.io/badge/Email-sanket1537@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanket1537@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Still learning. Still building. Always curious."*
+
+</div>
