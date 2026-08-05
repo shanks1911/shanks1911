@@ -1,43 +1,154 @@
 <div align="center">
 
-<img src="hero.svg" alt="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research · Market Microstructure · Systematic Trading. Research areas: market microstructure, systematic trading, statistical learning, derivatives, financial data engineering." width="100%">
+<img src="hero.svg" alt="Sanket Dangle — M.S. Computer Science, Columbia University. Quantitative Research · Market Microstructure · Systematic Trading" width="100%">
+
+[LinkedIn](https://www.linkedin.com/in/sanketdangle/) · [sanket1537@gmail.com](mailto:sanket1537@gmail.com) · Seeking Summer 2027 quantitative research internship
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-11151A?style=flat-square&labelColor=11151A&color=11151A)](https://www.linkedin.com/in/sanketdangle/)
-[![Email](https://img.shields.io/badge/SANKET1537%40GMAIL.COM-11151A?style=flat-square&labelColor=11151A&color=11151A)](mailto:sanket1537@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-11151A?style=flat-square&labelColor=11151A&color=11151A)](https://github.com/shanks1911)
-![Seeking](https://img.shields.io/badge/SEEKING%20·%20SUMMER%202027%20QR%20INTERNSHIP-11151A?style=flat-square&labelColor=11151A&color=11151A)
+---
 
-<img src="statement.svg" alt="Research statement — I am interested in how electronic markets work beneath the charts. My work focuses on designing reproducible experiments, building research infrastructure, and validating quantitative ideas against real market data. Most of what I know came from watching promising strategies fail under honest validation. That changed how I structure research: data integrity first, then evaluation, then models." width="100%">
+## Research Statement
 
-<img src="focus.svg" alt="Focus — Market Microstructure: researching. Derivatives & Volatility: implementing. Financial Data Engineering: built. Statistical Learning: applied. Market Making: reading." width="100%">
+I am interested in how electronic markets work beneath the charts. My work focuses on designing reproducible experiments, building research infrastructure, and validating quantitative ideas against real market data.
 
-<img src="questions.svg" alt="Open questions — Q1 Can order flow imbalance improve on the microprice as a fair-value estimator? Q2 Where does the microprice break down, and what regimes predict that failure? Q3 How should fair value be defined when the book is thin and one-sided? Q4 How much short-horizon return does queue imbalance actually explain?" width="100%">
+Most of what I know came from watching promising strategies fail under honest validation. That changed how I structure research: data integrity first, then evaluation, then models.
 
-<img src="current-research.svg" alt="Current research — Market Microstructure Research Platform. Estimating fair value from high-frequency futures limit order books. Method: LOB snapshots → estimator → point-in-time replay → block bootstrap → significance test → accept or reject." width="100%">
+---
 
-<img src="systems.svg" alt="Research systems — Statistical Arbitrage Strategy Explorer; Intraday StatArb Trading Simulator; Derivatives Pricing & Risk System; AQI Forecasting & Health Advisory; Urban Heat Island Detection; Agentic Research Companion." width="100%">
+## Focus
 
-<sub>
-<b>Links</b> · 
-<a href="https://statarbstrategyexplorer.streamlit.app/">StatArb Strategy Explorer</a> · 
-<a href="https://intradaystatarbtradingsimulator.streamlit.app/">Intraday StatArb Simulator</a> · 
-<a href="https://huggingface.co/spaces/shanks1911/derivatives-pricer">Derivatives Pricer</a> · 
-<a href="https://github.com/shanks1911/AQI_Health_Advisory">AQI code</a> · 
-<a href="https://aqihealthadvisory.streamlit.app/">AQI app</a> · 
-<a href="https://github.com/shanks1911/UHI">Urban Heat Island code</a> · 
-<a href="https://github.com/shanks1911/Agentic_AI_Project_Companion">Agentic Companion code</a>
-</sub>
+| Area | Depth |
+|:--|:--|
+| Market Microstructure | `██████████` Researching |
+| Financial Data Engineering | `█████████` Built |
+| Derivatives & Volatility | `████████` Implementing |
+| Statistical Learning | `███████` Applied |
+| Market Making | `██████` Reading |
 
-<img src="industry.svg" alt="Industry research — Raise Financial Services (Stratzy AI), Quantitative Research Intern, February 2026 to July 2026. 1,700+ financial datasets; 250+ raw fundamental & price feeds; 1000+ strategies evaluated; zero look-ahead tolerated. Pipeline: financial data → NLP preprocessing → factor engineering → strategy research → walk-forward validation → risk overlays → deployment. Research principles: data before models; validation before optimization; reproducibility over complexity; honest negative results matter." width="100%">
+---
 
-<img src="timeline.svg" alt="Timeline — 2024 Quote-to-Image Generation (Hinweis RTET); 2025 Urban Heat Island Detection (IEEE ICCCNT); 2025 Agentic Research Companion (Hinweis NCCT); 2026 Quantitative Research Intern, Raise Financial (Stratzy AI); 2026 M.S. Computer Science, Columbia University; 2026 Market Microstructure Research Platform." width="100%">
+## Open Questions
 
-<img src="publications.svg" alt="Publications — Urban Heat Island Prediction via Satellite-based AI Modeling, IEEE ICCCNT 2025. AQI Forecasting with Personalized Health Advisory, STAI 2026. Agentic AI Project Companion, Hinweis NCCT 2025. Quote-to-Image Generation via Llama 3.2, Hinweis RTET 2024." width="100%">
+| | |
+|:--|:--|
+| **Q1** | Can order flow imbalance improve on the microprice as a fair-value estimator? |
+| **Q2** | Where does the microprice break down, and what regimes predict that failure? |
+| **Q3** | How should fair value be defined when the book is thin and one-sided? |
+| **Q4** | How much short-horizon return does queue imbalance actually explain? |
 
-<img src="stack.svg" alt="Stack — Languages: Python, C++, SQL. Libraries: NumPy, Pandas, SciPy, statsmodels, PyTorch. Infrastructure: Docker, Git, Postgres, AWS." width="100%">
+---
 
-<img src="footer.svg" alt="Most strategies fail. Most models fail. That is precisely why quantitative research exists." width="100%">
+## Current Research
 
-<sub><a href="mailto:sanket1537@gmail.com">sanket1537@gmail.com</a> · <a href="https://www.linkedin.com/in/sanketdangle/">LinkedIn</a></sub>
+### Market Microstructure Research Platform
+
+**Estimating fair value from high-frequency futures limit order books**
+
+A research platform for constructing, testing and falsifying fair-value estimators on tick-level futures data — with the evaluation layer treated as the primary artifact, not an afterthought.
+
+```
+LOB snapshots → estimator → point-in-time replay → block bootstrap → significance test → accept / reject
+```
+
+| Estimators | Evaluation | Next |
+|:--|:--|:--|
+| Microprice | Point-in-time replay | Inventory-aware quoting |
+| Weighted midprice | Walk-forward splits | Optimal execution |
+| Order flow imbalance | Frozen holdout | Reinforcement learning |
+| Queue imbalance | Significance testing | Low-latency C++ |
+
+`Python` `NumPy` `Databento` `statsmodels` `C++`
+
+---
+
+## Research Systems
+
+**Statistical Arbitrage Strategy Explorer**
+Cointegration screening, spread construction and daily-horizon pair selection with configurable entry and exit bands.
+[Live app](https://statarbstrategyexplorer.streamlit.app/)
+
+**Intraday StatArb Trading Simulator**
+Intraday simulation of mean-reverting pair trades, including position sizing, costs and realised PnL attribution.
+[Live app](https://intradaystatarbtradingsimulator.streamlit.app/)
+
+**Derivatives Pricing & Risk System**
+Option pricing across analytic and numerical methods, with Greeks, scenario shocks and portfolio-level risk aggregation.
+[Live app](https://huggingface.co/spaces/shanks1911/derivatives-pricer)
+
+**AQI Forecasting & Health Advisory**
+End-to-end hourly air-quality forecasting: automated collection, feature engineering, model benchmarking, deployment.
+[Code](https://github.com/shanks1911/AQI_Health_Advisory) · [Live app](https://aqihealthadvisory.streamlit.app/)
+
+**Urban Heat Island Detection**
+Satellite-derived land surface temperature, NDVI and impervious-surface features clustered to locate heat islands across Mumbai.
+[Code](https://github.com/shanks1911/UHI)
+
+**Agentic Research Companion**
+LangGraph supervisor coordinating planning and research agents over a persistent vector store with stateful sessions.
+[Code](https://github.com/shanks1911/Agentic_AI_Project_Companion)
+
+---
+
+## Industry Research
+
+### Raise Financial Services (Stratzy AI)
+
+**Quantitative Research Intern** · February 2026 — July 2026
+
+| 1,700+ | 250+ | 1000+ | 0 |
+|:--:|:--:|:--:|:--:|
+| financial datasets | raw fundamental & price feeds | strategies evaluated | look-ahead tolerated |
+
+```
+financial data → NLP preprocessing → factor engineering → strategy research
+              → walk-forward validation → risk overlays → deployment
+```
+
+Built reusable research infrastructure rather than a single model: NLP preprocessing for corporate announcements, a modular factor library, a plugin-based risk-overlay framework, and point-in-time execution guarantees across the evaluation stack.
+
+> Robust research starts with robust data.
+
+**Research principles** — data before models · validation before optimization · reproducibility over complexity · honest negative results matter
+
+---
+
+## Timeline
+
+| Year | | |
+|:--|:--|:--|
+| 2024 | Quote-to-Image Generation | Hinweis RTET |
+| 2025 | Urban Heat Island Detection | IEEE ICCCNT |
+| 2025 | Agentic Research Companion | Hinweis NCCT |
+| 2026 | Quantitative Research Intern | Raise Financial (Stratzy AI) |
+| 2026 | M.S. Computer Science | Columbia University |
+| 2026 | Market Microstructure Research Platform | Flagship |
+
+---
+
+## Publications
+
+| Paper | Venue |
+|:--|:--|
+| Urban Heat Island Prediction via Satellite-based AI Modeling | IEEE ICCCNT 2025 |
+| AQI Forecasting with Personalized Health Advisory | STAI 2026 |
+| Agentic AI Project Companion | Hinweis NCCT 2025 |
+| Quote-to-Image Generation via Llama 3.2 | Hinweis RTET 2024 |
+
+---
+
+## Stack
+
+| Languages | Libraries | Infrastructure |
+|:--|:--|:--|
+| Python · C++ · SQL | NumPy · Pandas · SciPy · statsmodels · PyTorch | Docker · Git · Postgres · AWS |
+
+---
+
+<div align="center">
+
+**Most strategies fail. Most models fail. That is precisely why quantitative research exists.**
+
+[sanket1537@gmail.com](mailto:sanket1537@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sanketdangle/)
+
+</div>
